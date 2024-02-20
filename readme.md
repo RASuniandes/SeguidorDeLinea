@@ -4,5 +4,7 @@
 - Mateo López (Mateo-Lopez83)
 - Alejandro Alvernia (AlejandroAAL)
 - Laura Avelino (Lauraavelin)
+- Valentina Arenas ()
+- Juan Felipe Ángulo ()
 
 **Este es el equipo para 2024-1**
