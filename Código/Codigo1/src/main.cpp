@@ -1,9 +1,9 @@
 #include <Arduino.h>
-#define s1 17
-#define s2 16
-#define s3 15
-#define s4 14
-#define A0 20
+#define s1 27
+#define s2 26
+#define s3 25
+#define s4 33
+#define A0 14
 
 int sensorPin = A0; //Seleccion de pin analógico a ser leido
 int sensorValue = 0; //Variable que captura el valor analógico del sensor
@@ -14,13 +14,14 @@ int k=0;
 int valores[16];
 
 // put function declarations here:
-int myFunction(int, int);
+
 void lectura(int k);
 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
-  pinMode(18,INPUT);
+  //pinMode(sensorPin,OUTPUT);
+  pinMode(sensorPin,INPUT);
   pinMode(s1,OUTPUT);
   pinMode(s2,OUTPUT);
   pinMode(s3,OUTPUT);
@@ -152,6 +153,7 @@ void loop() {
     Serial.println(i);
     lectura(i);
     sensorValue = digitalRead(sensorPin);
+    //digitalWrite(sensorPin,HIGH);
     Serial.println("valor es "+ String(sensorValue));
     ValueFinal=sensorValue;
     valores[15-i] = ValueFinal;
