@@ -1,5 +1,4 @@
 #include <Arduino.h>
-
 #define s1 17
 #define s2 16
 #define s3 15
@@ -153,15 +152,12 @@ void loop() {
     Serial.println(i);
     lectura(i);
     sensorValue = digitalRead(sensorPin);
-    Serial.println("valor es"+ (String)sensorValue);
+    Serial.println("valor es "+ String(sensorValue));
     ValueFinal=sensorValue;
     valores[15-i] = ValueFinal;
     Serial.println(valores[15-i]);
     delay(500);
     
   }
-  // put your main code here, to run repeatedly:
+  
 }
-
-
-// put function definitions here:
