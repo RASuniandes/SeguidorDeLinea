@@ -9347,6 +9347,12 @@
 			(uuid "8c653410-61ce-4da9-8a93-d6cfa3e789c8")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR022")
@@ -9560,6 +9566,12 @@
 			(uuid "a7c50e88-70a4-43d6-b17d-533ccf397abb")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR033")
@@ -9596,7 +9608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:0603"
+		(property "Footprint" "digikey-kicad-library-master:0603"
 			(at 228.092 153.67 90)
 			(effects
 				(font
@@ -9703,6 +9715,12 @@
 			(uuid "ae2e0886-1d1e-4127-b9bd-1114d8b4a604")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR02")
@@ -9769,6 +9787,12 @@
 			(uuid "30786a0a-9957-4eec-89ea-a91ff52286ee")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR015")
@@ -9835,6 +9859,12 @@
 			(uuid "19c657f5-14f5-4c29-ba17-859c8c2da7eb")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR017")
@@ -9871,7 +9901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:0603"
+		(property "Footprint" "digikey-kicad-library-master:0603"
 			(at 272.542 138.43 90)
 			(effects
 				(font
@@ -9977,6 +10007,12 @@
 			(uuid "dad07e06-7c84-4b74-933c-e871739205c5")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR011")
@@ -10043,6 +10079,12 @@
 			(uuid "89d24a9f-ce9a-487a-b908-c8e6424fff09")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR012")
@@ -10111,6 +10153,12 @@
 			(uuid "c5eca255-f19c-4f8f-a512-836ecc0467a8")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR026")
@@ -10177,6 +10225,12 @@
 			(uuid "d7601110-1ce1-421b-8bf2-5cc9fb440bcb")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR028")
@@ -10243,6 +10297,12 @@
 			(uuid "8805d22b-8caa-4946-9937-643d2bad88a2")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR044")
@@ -10388,6 +10448,12 @@
 			(uuid "00f81fca-af3c-4e73-8d9b-66a97dc2b829")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR039")
@@ -10455,6 +10521,12 @@
 			(uuid "58a33ba3-8a75-43a6-93cb-5c86f771a960")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR05")
@@ -10598,6 +10670,12 @@
 			(uuid "3147a0b2-d85c-4560-951b-1cdf534849a5")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR08")
@@ -10666,6 +10744,12 @@
 			(uuid "2b323581-491c-4292-9199-f172b0d528c8")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR025")
@@ -10732,6 +10816,12 @@
 			(uuid "237e536b-6a53-42fd-9c62-9dfd3889b2f3")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR016")
@@ -10800,6 +10890,12 @@
 			(uuid "908b20ee-1a2d-4817-ac3b-d4b7ac1961c3")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR052")
@@ -10868,6 +10964,12 @@
 			(uuid "11291119-42a0-4907-b953-3a61bfde62fc")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR040")
@@ -11009,6 +11111,12 @@
 			(uuid "db289554-340d-4abc-b06c-597b8510f23f")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR03")
@@ -11076,6 +11184,12 @@
 			(uuid "e8962fb5-d941-4544-b6e5-42d75b904b0d")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR035")
@@ -11444,6 +11558,12 @@
 			(uuid "09beaffd-018f-4acc-9f74-1cbcc76e9ef1")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR01")
@@ -11508,6 +11628,12 @@
 			)
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "H1")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "H1")
@@ -11794,6 +11920,12 @@
 			(uuid "757603fe-71d6-4f09-906e-72812849e325")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR037")
@@ -12006,6 +12138,12 @@
 			)
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "H4")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "H4")
@@ -12073,6 +12211,12 @@
 			(uuid "b5818dd6-e987-446d-ab07-ec65484f4a0f")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR020")
@@ -12369,6 +12513,12 @@
 			(uuid "d578e999-b4b2-4bd1-abde-6d2c65513255")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR07")
@@ -12435,6 +12585,12 @@
 			(uuid "9fbc6ac5-e4e5-44a2-b04d-e01ffbb52419")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR04")
@@ -12501,6 +12657,12 @@
 			(uuid "3a29fc3e-836f-4bca-a2db-2a52e8eaad37")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR048")
@@ -13177,6 +13339,12 @@
 			(uuid "b2c3247b-a25f-418f-b98f-ca4171ab7a30")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR031")
@@ -13243,6 +13411,12 @@
 			(uuid "964e50eb-9a67-42dc-a422-e0b5b4c53971")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR038")
@@ -13309,6 +13483,12 @@
 			(uuid "686d8348-194d-455d-9320-49d66daa1f81")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR06")
@@ -13343,7 +13523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector:JWT_A3963_1x02_P3.96mm_Vertical"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical"
 			(at 262.89 105.41 0)
 			(effects
 				(font
@@ -13770,7 +13950,7 @@
 				)
 			)
 		)
-		(property "Footprint" "misc_footprints:MT3608_module"
+		(property "Footprint" "MT3608:MT3608-Module"
 			(at 35.56 175.26 0)
 			(effects
 				(font
@@ -13882,6 +14062,12 @@
 			(uuid "63202c98-dd6c-40ed-9a52-006b8ead0e8c")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR018")
@@ -13918,7 +14104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:0603"
+		(property "Footprint" "digikey-kicad-library-master:0603"
 			(at 267.462 153.67 90)
 			(effects
 				(font
@@ -14023,6 +14209,12 @@
 			(uuid "2c793598-0cb8-4960-8d8f-2e5c66c40302")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR029")
@@ -14089,6 +14281,12 @@
 			(uuid "f3db1545-063a-41cc-bb4e-698767be62fc")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR042")
@@ -14153,6 +14351,12 @@
 			)
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "H3")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "H3")
@@ -14220,6 +14424,12 @@
 			(uuid "6c61179c-2ca0-4729-b75b-fc2eb3869706")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR023")
@@ -14360,6 +14570,12 @@
 			)
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "H2")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "H2")
@@ -14586,6 +14802,12 @@
 			(uuid "1b5ad66c-8d9e-40f8-8b96-efdb712acb71")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR043")
@@ -14652,6 +14874,12 @@
 			(uuid "2b8c4160-cdcd-4e9c-843d-b5d48181ca4b")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR036")
@@ -14717,6 +14945,12 @@
 			(uuid "0b488410-5c3c-4eea-99b4-d796f8c1ba7e")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR09")
@@ -14785,6 +15019,12 @@
 			(uuid "9e53dca8-418d-4fe4-8690-0a184a5ab57a")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR024")
@@ -14899,7 +15139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:0603"
+		(property "Footprint" "digikey-kicad-library-master:0603"
 			(at 230.632 137.16 90)
 			(effects
 				(font
@@ -14973,7 +15213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "misc_footprints:MT3608_module"
+		(property "Footprint" "MT3608:MT3608-Module"
 			(at 36.83 153.67 0)
 			(effects
 				(font
@@ -15085,6 +15325,12 @@
 			(uuid "ecfd702e-b4f3-4b6a-b820-7da3a382277d")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR049")
@@ -15152,6 +15398,12 @@
 			(uuid "1be442a4-ef36-4505-a553-15c6995bfc55")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR019")
@@ -15440,6 +15692,12 @@
 			(uuid "30dbc637-3769-4a6a-94e6-d2c6bbd5bda7")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR014")
@@ -15508,6 +15766,12 @@
 			(uuid "15352596-52e6-4cf2-8046-74ad736e194b")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR013")
@@ -15649,6 +15913,12 @@
 			(uuid "b225cdad-c644-4bd0-a2f9-c7379ebee0cb")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR034")
@@ -15793,6 +16063,12 @@
 			(uuid "e0fc1782-2c67-4981-8bfb-18905d65be63")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR041")
@@ -15859,6 +16135,12 @@
 			(uuid "3246e209-0c54-40c5-ad16-ed9525f75321")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR032")
@@ -15925,6 +16207,12 @@
 			(uuid "16f30b99-69b3-4026-bfe6-99e70a76e0eb")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR010")
@@ -15993,6 +16281,12 @@
 			(uuid "12f9d38f-e82f-4651-90b5-6da2503e64e1")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR027")
@@ -16060,6 +16354,12 @@
 			(uuid "5e80f836-0f23-4735-8565-f24a063c87bd")
 		)
 		(instances
+			(project "PCB seguidor final"
+				(path "/e648e1de-53d7-47b7-8bc3-d4f3366b9377"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
 			(project "Seguidor de lineaf"
 				(path "/f4ce689f-74b7-4dbc-ad47-3301b8dc97a2"
 					(reference "#PWR021")
